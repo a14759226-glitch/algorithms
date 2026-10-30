@@ -1,3 +1,5 @@
+# https://contest.yandex.ru/contest/100803/run-report/168416129/
+
 import sys
 from dataclasses import dataclass
 

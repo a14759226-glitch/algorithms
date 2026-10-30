@@ -1,3 +1,5 @@
+# https://contest.yandex.ru/contest/102171/run-report/169322180/
+
 import sys
 from typing import Any, Optional
 
